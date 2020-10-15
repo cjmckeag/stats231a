@@ -1,0 +1,20 @@
+Problem 1
+
+"https://iamtrask.github.io/2015/07/12/basic-python-network/"
+
+Read the above blog, play with the code with one-hidden layer.
+(1) Change the training dataset so that it has more training examples and more input variables.
+(2) Change the non-linearity of the hidden layer to ReLU.
+(3) Change the learning rate of gradient descent.
+Write a brief memo on your work, so that after one year, you can still recall what this assignment is about, i.e., the underlying theory, method, and code, and what you have done and have discovered.
+
+Problem 2
+
+"https://github.com/SkalskiP/ILearnDeepLearning.py/blob/master/01_mysteries_of_neural_networks/03_numpy_neural_net/Numpy%20deep%20neural%20network.ipynb"
+
+Read the above blog, play with the code.
+(1) Change the number of layers and the numbers of nodes in the hidden layers.
+(2) Change the number of training examples. Change the distributions of the positive and negative training examples.
+(3) Change the learning rate of gradient descent.
+(4) Explore the issue of testing error and over-parametrization. You can generate the testing data from the same distribution as the training data, and obtain the testing error by applying the trained model to the testing data. You can increase the number of nodes in the layers and see how this affects the testing error. You can plot the testing error over the number of nodes. You can also plot the training error although it is less important than testing error.
+Write a brief memo on your work, so that after one year, you can still recall what this assignment is about, i.e., the underlying theory, method, and code, and what you have done and have discovered.
