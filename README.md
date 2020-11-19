@@ -7,8 +7,8 @@ Simple neural nets with NumPy.
 
 ## Homework 3
 
-CNNs and RNNS.
+CNNs and RNNs.
 
 ## Homework 4
 
-Classification Net, GANs, and Translator encoder-decoder model.
+Classification net, GANs, and encoder-decoder translation model.
