@@ -1,0 +1,20 @@
+Problem 1: 
+
+https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1
+
+Read the above blog on CNN (ConvNet).
+
+(1) Write a detailed annotation of the code, i.e., go over some important lines, and explain what they are doing.
+(2) Change the sizes of some filters, and show results.
+(3) Change the numbers of channels for some layers, and show results.
+
+
+Problem 2:
+
+https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/
+
+Read the above blog on RNN.
+
+(1) Write a detailed annotation of the code.
+(2) Modify the data, e.g., using functions other than sine, and show results.
+(3) Change the dimension of hidden vector, and show results.

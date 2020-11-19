@@ -1,0 +1,12 @@
+Read about Google Colab: https://colab.research.google.com/notebooks/intro.ipynb
+
+Read about TensorFlow: https://www.tensorflow.org/
+
+Play with the code for the three examples:
+
+Classification: https://www.tensorflow.org/tutorials/keras/classification
+
+Translation: https://www.tensorflow.org/tutorials/text/nmt_with_attention
+
+(1) Write a memo for each code, annotating some important lines that carry out key computations.
+(2) For each code, vary the model architecture, e.g., adding a layer, changing the number of channels in CNN, or the dimension of the hidden vector in RNN, and report the results.
