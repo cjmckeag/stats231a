@@ -1,0 +1,23 @@
+(1) Study and play with the following code for VAE
+
+https://www.tensorflow.org/tutorials/generative/cvae
+
+(a) Write a brief summary of the code. Annotate key lines.
+
+(b) Let the dimension of hidden vector be 2, plot the generated g(z1, z2) for different (z1, z2). You can arrange the generated images in the 2-dimensional space according to (z1, z2).
+
+(2) Study and play with the following code for tSNE
+
+https://towardsdatascience.com/t-sne-python-example-1ded9953f26
+
+(a) Write a brief summary of the code. Annotate key lines.
+
+(b) Vary the perplexity parameter and show results.
+
+(3) Study and play with the following code for spectral embedding and clustering
+
+https://towardsdatascience.com/unsupervised-machine-learning-spectral-clustering-algorithm-implemented-from-scratch-in-python-205c87271045
+
+(a) Write a brief summary of the code. Annotate key lines.
+
+(b) Let the dimension of hidden vector be 2, plot the data in the latent space, and see if they form well separated clusters.
